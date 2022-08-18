@@ -8,5 +8,6 @@ Tool for spam mail in Mobile Legends, script ini juga tidak saya encrypt dengan 
 + pkg update && pkg upgrade
 + pkg install git
 + git clone https://github.com/script-kidiez/ml_spammail
++ pop install requirements.txt
 + cd ml_spammail
 + python ml.py
